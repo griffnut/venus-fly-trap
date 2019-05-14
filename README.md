@@ -4,7 +4,7 @@ An e-commerce site that's delighted to sell you wonderful succelents to brighten
 
 ![alt text](https://puu.sh/D9AVG/69abeb920a.jpg)
 
-**Deployed at:** http://venus-fly-trap.herokuapp.com/products
+**Deployed at:** https://venus-fly-trap.herokuapp.com/products
 
 ## Features
 
